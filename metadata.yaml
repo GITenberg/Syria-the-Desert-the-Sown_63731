@@ -1,0 +1,42 @@
+_repo: Syria-the-Desert-the-Sown_63731
+_version: 0.0.1
+alternative_title: Syria, the Desert and the Sown
+contributor:
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+creator:
+  author:
+    agent_name: Bell, Gertrude Lowthian
+    alias: Bell, Gertrude Margaret Lowthian
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '46514'
+    url: http://www.gutenberg.org/2009/agents/46514
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63731'
+  lccn: a10000520
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Syria -- Description and travel'
+- !lcsh 'Syria -- Social life and customs'
+- !lcsh 'Palestine -- Social life and customs'
+- !lcsh 'Lebanon -- Social life and customs'
+- !lcsh 'Lebanon -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Palestine -- Description and travel'
+- GITenberg
+title: Syria, the Desert & the Sown
+url: http://www.gutenberg.org/ebooks/63731
